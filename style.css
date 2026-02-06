@@ -102,35 +102,35 @@ nav i{
 }
 
 #center-2{
-  background: url('./resources/hero_iphone_family__fuz5j2v5xx6y_medium.jpg');
-  background-size: 75% auto;
+  background-image: url('./resources/hero_iphone_family__fuz5j2v5xx6y_medium.jpg');
+  background-size: cover;
   background-position: center;
   grid-area: center-2;
 }
 
 #center-3{
-  background: url('./resources/hero_apple_watch_series_11__bdz1mml4dx6q_medium.jpg');
+  background-image: url('./resources/hero_apple_watch_series_11__bdz1mml4dx6q_medium.jpg');
   grid-area: center-3;
   background-position: center;
-  background-size: 80% auto;
+  background-size: cover;
 }
 
 #center-4{
-  background: url('./resources/hero_valentines_day_announce__ezg8dset3vki_medium.png');
+  background-image: url('./resources/hero_valentines_day_announce__ezg8dset3vki_medium.png');
   background-size: cover;
   background-position: center;
   grid-area: center-4;
 }
 
 #center-5{
-  background: url('./resources/hero_ipad_air_avail__c34ycq52exg2_medium.jpg');
+  background-image: url('./resources/hero_ipad_air_avail__c34ycq52exg2_medium.jpg');
   background-size: cover;
   background-position: center;
   grid-area: center-5;
 }
 
 #center-6{
-  background: url('./resources/promo_macbook_pro_m5__gnwzdhijhm6a_medium.jpg');
+  background-image: url('./resources/promo_macbook_pro_m5__gnwzdhijhm6a_medium.jpg');
   background-size: cover;
   background-position: center;
   grid-area: center-6;
@@ -148,21 +148,21 @@ nav i{
 }
 
 #center-7{
-  background: url('./resources/promo_airpodspro_3__f6xmza7bglei_medium.jpg');
+  background-image: url('./resources/promo_airpodspro_3__f6xmza7bglei_medium.jpg');
   background-size: cover;
   background-position: center;
   grid-area: center-7;
 }
 
 #center-8{
-  background: url('./resources/promo_iphone_tradein__bugw15ka691e_medium.jpg');
+  background-image: url('./resources/promo_iphone_tradein__bugw15ka691e_medium.jpg');
   background-size: cover;
   background-position: center;
   grid-area: center-8;
 }
 
 #center-9{
-  background: url('./resources/promo_apple_card__5cm7draujpey_medium.jpg');
+  background-image: url('./resources/promo_apple_card__5cm7draujpey_medium.jpg');
   background-size: cover;
   background-position: center;
   grid-area: center-9;
